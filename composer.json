@@ -1,0 +1,28 @@
+{
+    "name": "damicko-kori/yii2-connected-arduino",
+    "description": "Пакет для обмена данными по сети с модулем Arduino",
+    "type": "yii2-extension",
+    "keywords": [
+        "yii2",
+        "arduino",
+        "connect"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Damicko Kori",
+            "email": "kor.damicko2011@gmail.com",            
+            "homepage": "https://github.com/DamickoKori/yii2-connected-arduino",
+            "role": "Developer"
+        }
+    ],
+     "minimum-stability": "stable",
+     "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "damickokori\\connectedArduino\\": "src"
+        }
+    }
+}
