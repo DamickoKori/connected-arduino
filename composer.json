@@ -23,7 +23,7 @@
     },
     "autoload": {
         "psr-4": {
-            "damickokori\\connectedArduino\\": "src"
+            "damickokori\\connectedArduino\\": ""
         }
     },
     "repositories": [
