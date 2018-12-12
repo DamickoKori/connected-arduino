@@ -26,4 +26,10 @@
             "damickokori\\connectedArduino\\": "src"
         }
     }
+    "repositories": [
+        {
+          "type": "vcs",
+          "url": "https://github.com/DamickoKori/yii2-connected-arduino.git
+        }
+]
 }
