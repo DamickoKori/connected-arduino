@@ -25,7 +25,7 @@
         "psr-4": {
             "damickokori\\connectedArduino\\": "src"
         }
-    }
+    },
     "repositories": [
         {
             "type": "vcs",
