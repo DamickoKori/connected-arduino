@@ -28,8 +28,8 @@
     }
     "repositories": [
         {
-          "type": "vcs",
-          "url": "https://github.com/DamickoKori/yii2-connected-arduino.git"
+            "type": "vcs",
+            "url": "hhttps://github.com/DamickoKori/yii2-connected-arduino.git"
         }
     ]
 }
